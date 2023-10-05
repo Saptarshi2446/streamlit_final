@@ -1,0 +1,884 @@
+START_TIME,PROBLEM_DESCRIPTION,END_TIME,ACKNOWLEDGE_MESSAGE,DURATION,HOSTNAME,Severity_Description
+03-10-2023 15:16,Forecast CPU Utilization High,03-10-2023 15:21,,0d 0h 5m 0s,Calculated and Aggregate items,Warning
+03-10-2023 15:06,Forecast CPU Utilization High,03-10-2023 15:07,,0d 0h 1m 0s,Calculated and Aggregate items,Warning
+03-10-2023 14:23,Azure: There are errors in requests to API,03-10-2023 14:24,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 14:17,Azure: There are errors in requests to API,03-10-2023 14:18,,0d 0h 1m 47s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 12:02,Azure: There are errors in requests to API,03-10-2023 12:03,,0d 0h 1m 55s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 12:00,Azure: There are errors in requests to API,03-10-2023 12:00,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 11:55,Azure: There are errors in requests to API,03-10-2023 11:57,,0d 0h 1m 57s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 11:53,Azure: There are errors in requests to API,03-10-2023 11:54,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 11:18,Azure: There are errors in requests to API,03-10-2023 11:18,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 10:30,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,-,,,Zabbixproxy,Information
+03-10-2023 10:30,Zabbix server: More than 100 items having missing data for more than 10 minutes,-,,,Zabbix-Server-Active,Information
+03-10-2023 10:30,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,-,,,Zabbixproxy2,Information
+03-10-2023 10:29,Port 44359 is down for sometime,-,,,Zabbix-Server-Active,High
+03-10-2023 10:13,Forecast Memory Utilization High,03-10-2023 10:14,,0d 0h 1m 0s,Calculated and Aggregate items,Warning
+03-10-2023 10:09,Zabbix server: Utilization of alerter processes is high,03-10-2023 10:15,,0d 0h 6m 0s,Zabbix-Server-Active,Warning
+03-10-2023 10:09,Zabbix proxy: has been restarted,03-10-2023 10:19,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+03-10-2023 10:09,has been restarted,03-10-2023 10:18,,0d 0h 9m 30s,Linux Server,Information
+03-10-2023 10:09,has been restarted,03-10-2023 10:18,,0d 0h 9m 30s,Zabbix-Server-Active,Information
+03-10-2023 10:08,Zabbix proxy: has been restarted,03-10-2023 10:18,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+03-10-2023 10:08,Load average is too high,03-10-2023 10:09,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+03-10-2023 10:08,Load average is too high,03-10-2023 10:09,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+03-10-2023 10:08,Azure Microsoft SQL: There are errors in requests to API,03-10-2023 10:09,,0d 0h 1m 2s,Azure Microsoft SQL database azure-sqlserver1,Warning
+03-10-2023 10:08,Azure Microsoft SQL: Microsoft SQL database is in unknown state,03-10-2023 10:09,,0d 0h 1m 2s,Azure Microsoft SQL database azure-sqlserver1,Information
+03-10-2023 10:08,Load average is too high,03-10-2023 10:09,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+03-10-2023 10:08,Load average is too high,03-10-2023 10:09,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+03-10-2023 01:51,Azure: There are errors in requests to API,03-10-2023 01:51,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 01:45,Azure: There are errors in requests to API,03-10-2023 01:45,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 01:19,Azure: There are errors in requests to API,03-10-2023 01:21,,0d 0h 1m 57s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 01:12,Azure: There are errors in requests to API,03-10-2023 01:14,,0d 0h 1m 12s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:47,Azure: There are errors in requests to API,03-10-2023 00:48,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:44,Azure: There are errors in requests to API,03-10-2023 00:46,,0d 0h 1m 58s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:41,Azure: There are errors in requests to API,03-10-2023 00:43,,0d 0h 1m 9s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:37,Azure: There are errors in requests to API,03-10-2023 00:37,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:34,Unavailable by ICMP ping,-,,,AP_18_Mumbai_BN,Average
+03-10-2023 00:22,Azure: There are errors in requests to API,03-10-2023 00:23,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+03-10-2023 00:19,Port 8085 is down for sometime,03-10-2023 10:09,,0d 9h 50m 25s,Zabbix-Server-Active,High
+03-10-2023 00:19,Azure: There are errors in requests to API,03-10-2023 00:20,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:50,Azure: There are errors in requests to API,02-10-2023 23:51,,0d 0h 1m 53s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:45,Azure: There are errors in requests to API,02-10-2023 23:47,,0d 0h 2m 8s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:41,Azure: There are errors in requests to API,02-10-2023 23:41,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:32,Azure: There are errors in requests to API,02-10-2023 23:33,,0d 0h 1m 54s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:26,Azure: There are errors in requests to API,02-10-2023 23:27,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:20,Azure: There are errors in requests to API,02-10-2023 23:24,,0d 0h 3m 58s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:17,Azure: There are errors in requests to API,02-10-2023 23:17,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:06,Azure: There are errors in requests to API,02-10-2023 23:06,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 23:05,Website Unavailable: Facebook,03-10-2023 00:00,,0d 0h 55m 4s,Zabbix-Server-Standby,Average
+02-10-2023 22:47,Azure: There are errors in requests to API,02-10-2023 22:50,,0d 0h 2m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:41,Website Unavailable: Facebook,02-10-2023 22:56,,0d 0h 15m 0s,Zabbix-Server-Standby,Average
+02-10-2023 22:41,Azure: There are errors in requests to API,02-10-2023 22:44,,0d 0h 3m 52s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:23,Azure: There are errors in requests to API,02-10-2023 22:23,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:16,Azure: There are errors in requests to API,02-10-2023 22:17,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:13,Azure: There are errors in requests to API,02-10-2023 22:14,,0d 0h 1m 52s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:06,Website Unavailable: Facebook,02-10-2023 22:21,,0d 0h 15m 0s,Zabbix-Server-Standby,Average
+02-10-2023 22:05,Azure: There are errors in requests to API,02-10-2023 22:05,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 22:02,Azure: There are errors in requests to API,02-10-2023 22:04,,0d 0h 1m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 21:58,Azure: There are errors in requests to API,02-10-2023 22:01,,0d 0h 2m 10s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 21:55,Azure: There are errors in requests to API,02-10-2023 21:58,,0d 0h 2m 11s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 21:36,Azure Microsoft SQL: Microsoft SQL database is in unknown state,02-10-2023 21:36,,0d 0h 0m 50s,Azure Microsoft SQL database azure-sqlserver1,Information
+02-10-2023 21:36,Azure Microsoft SQL: There are errors in requests to API,02-10-2023 21:36,,0d 0h 0m 50s,Azure Microsoft SQL database azure-sqlserver1,Warning
+02-10-2023 21:34,Azure: There are errors in requests to API,02-10-2023 21:34,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 21:31,Website Unavailable: Facebook,02-10-2023 21:41,,0d 0h 10m 0s,Zabbix-Server-Standby,Average
+02-10-2023 20:56,Azure: There are errors in requests to API,02-10-2023 20:57,,0d 0h 1m 5s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 20:52,Azure: There are errors in requests to API,02-10-2023 20:55,,0d 0h 2m 10s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 20:48,Azure: There are errors in requests to API,02-10-2023 20:49,,0d 0h 1m 53s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 20:16,Azure: There are errors in requests to API,02-10-2023 20:18,,0d 0h 2m 6s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 20:11,Azure: There are errors in requests to API,02-10-2023 20:11,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 19:46,Website Unavailable: Facebook,02-10-2023 19:47,,0d 0h 1m 15s,Zabbix-Server-Standby,Average
+02-10-2023 19:45,Azure: There are errors in requests to API,02-10-2023 19:45,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 19:20,Azure: There are errors in requests to API,02-10-2023 19:21,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 19:06,Forecast CPU Utilization High,02-10-2023 19:12,,0d 0h 6m 0s,Calculated and Aggregate items,Warning
+02-10-2023 18:50,Azure: There are errors in requests to API,02-10-2023 18:51,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 18:47,Azure: There are errors in requests to API,02-10-2023 18:48,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 18:21,Azure: There are errors in requests to API,02-10-2023 18:21,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 18:18,Azure: There are errors in requests to API,02-10-2023 18:19,,0d 0h 1m 4s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 17:36,Forecast CPU Utilization High,02-10-2023 17:40,,0d 0h 4m 0s,Calculated and Aggregate items,Warning
+02-10-2023 15:21,Azure: There are errors in requests to API,02-10-2023 15:24,,0d 0h 2m 57s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 15:18,Azure: There are errors in requests to API,02-10-2023 15:18,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 12:51,Azure: There are errors in requests to API,02-10-2023 12:51,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 11:59,Port 45193 is down for sometime,-,,,Zabbix-Server-Active,High
+02-10-2023 11:58,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,03-10-2023 10:09,,0d 22h 11m 0s,Zabbixproxy,Information
+02-10-2023 11:58,Zabbix server: More than 100 items having missing data for more than 10 minutes,03-10-2023 10:09,,0d 22h 11m 0s,Zabbix-Server-Active,Information
+02-10-2023 11:58,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,03-10-2023 10:09,,0d 22h 11m 0s,Zabbixproxy2,Information
+02-10-2023 11:48,Azure: There are errors in requests to API,02-10-2023 11:48,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 11:45,Forecast Memory Utilization High,02-10-2023 11:46,,0d 0h 1m 0s,Calculated and Aggregate items,Warning
+02-10-2023 11:41,Azure: There are errors in requests to API,02-10-2023 11:45,,0d 0h 3m 57s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 11:38,Zabbix proxy: has been restarted,02-10-2023 11:48,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+02-10-2023 11:38,has been restarted,02-10-2023 11:48,,0d 0h 9m 30s,Linux Server,Information
+02-10-2023 11:38,has been restarted,02-10-2023 11:48,,0d 0h 10m 0s,Zabbix-Server-Active,Information
+02-10-2023 11:38,Zabbix proxy: Utilization of http poller processes is high,02-10-2023 11:39,,0d 0h 1m 0s,Zabbixproxy,Warning
+02-10-2023 11:38,Zabbix proxy: Utilization of http poller processes is high,02-10-2023 11:39,,0d 0h 1m 0s,Zabbixproxy2,Warning
+02-10-2023 11:38,Zabbix server: Utilization of http poller processes is high,02-10-2023 11:40,,0d 0h 2m 0s,Zabbix-Server-Active,Warning
+02-10-2023 11:38,Zabbix proxy: has been restarted,02-10-2023 11:48,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+02-10-2023 11:38,High CPU utilization,02-10-2023 11:39,,0d 0h 1m 0s,Linux Server,Average
+02-10-2023 01:59,Combined triggers,-,,,Zabbix-Server-Active,Not Classified
+02-10-2023 01:59,Combined triggers,-,,,Zabbix-Server-Active,Not Classified
+02-10-2023 01:58,/: Disk space is low,-,,,Zabbix-Server-Active,Information
+02-10-2023 01:58,/: Disk space is low,-,,,Zabbix-Server-Active,Information
+02-10-2023 01:58,/: Disk space is low,-,,,Zabbix-Server-Active,Information
+02-10-2023 01:58,Space Utilization > 80%,-,,,Zabbix-Server-Active,Not Classified
+02-10-2023 01:58,/: Disk space is low,-,,,Zabbix-Server-Active,Information
+02-10-2023 01:56,/: Disk space is low,-,,,Linux Server,Information
+02-10-2023 01:56,/: Disk space is low,-,,,Linux Server,Information
+02-10-2023 01:56,/: Disk space is low,-,,,Linux Server,Information
+02-10-2023 01:56,/: Disk space is low,-,,,Linux Server,Information
+02-10-2023 01:49,Azure: There are errors in requests to API,02-10-2023 01:50,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 01:44,Website Unavailable: Facebook,02-10-2023 11:38,,0d 9h 54m 14s,Zabbix-Server-Standby,Average
+02-10-2023 01:18,Website Unavailable: Facebook,02-10-2023 01:19,,0d 0h 1m 16s,Zabbix-Server-Standby,Average
+02-10-2023 00:48,Azure: There are errors in requests to API,02-10-2023 00:48,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 00:18,Azure: There are errors in requests to API,02-10-2023 00:18,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+02-10-2023 00:16,Port 8085 is down for sometime,02-10-2023 11:39,,0d 11h 23m 1s,Zabbix-Server-Active,High
+01-10-2023 23:18,Azure: There are errors in requests to API,01-10-2023 23:18,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 22:39,Combined triggers,01-10-2023 22:49,,0d 0h 10m 0s,Zabbix-Server-Active,Not Classified
+01-10-2023 22:39,Combined triggers,01-10-2023 22:49,,0d 0h 10m 0s,Zabbix-Server-Active,Not Classified
+01-10-2023 22:34,/: Disk space is low,01-10-2023 22:47,,0d 0h 13m 0s,Zabbix-Server-Active,Information
+01-10-2023 22:34,Space Utilization > 80%,01-10-2023 22:47,,0d 0h 13m 0s,Zabbix-Server-Active,Not Classified
+01-10-2023 22:34,/: Disk space is low,01-10-2023 22:47,,0d 0h 13m 0s,Zabbix-Server-Active,Information
+01-10-2023 22:34,/: Disk space is low,01-10-2023 22:47,,0d 0h 13m 0s,Zabbix-Server-Active,Information
+01-10-2023 22:34,/: Disk space is low,01-10-2023 22:47,,0d 0h 13m 0s,Zabbix-Server-Active,Information
+01-10-2023 22:31,/: Disk space is low,01-10-2023 22:46,,0d 0h 15m 0s,Linux Server,Information
+01-10-2023 22:31,/: Disk space is low,01-10-2023 22:46,,0d 0h 15m 0s,Linux Server,Information
+01-10-2023 22:31,/: Disk space is low,01-10-2023 22:46,,0d 0h 15m 0s,Linux Server,Information
+01-10-2023 22:31,/: Disk space is low,01-10-2023 22:46,,0d 0h 15m 0s,Linux Server,Information
+01-10-2023 22:17,Azure: There are errors in requests to API,01-10-2023 22:17,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 21:18,Azure: There are errors in requests to API,01-10-2023 21:18,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 20:48,Forecast CPU Utilization High,01-10-2023 20:57,,0d 0h 9m 0s,Calculated and Aggregate items,Warning
+01-10-2023 20:36,Port 42501 is down for sometime,-,,,Zabbix-Server-Active,High
+01-10-2023 20:35,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,02-10-2023 11:38,,0d 15h 3m 0s,Zabbixproxy,Information
+01-10-2023 20:35,Zabbix server: More than 100 items having missing data for more than 10 minutes,02-10-2023 11:38,,0d 15h 3m 0s,Zabbix-Server-Active,Information
+01-10-2023 20:35,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,02-10-2023 11:38,,0d 15h 3m 0s,Zabbixproxy2,Information
+01-10-2023 20:24,Forecast CPU Utilization High,01-10-2023 20:36,,0d 0h 12m 0s,Calculated and Aggregate items,Warning
+01-10-2023 20:17,has been restarted,01-10-2023 20:25,,0d 0h 8m 11s,Zabbix-Server-Active,Information
+01-10-2023 20:16,Zabbix agent is not available,01-10-2023 20:17,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+01-10-2023 20:15,Zabbix proxy: has been restarted,01-10-2023 20:25,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+01-10-2023 20:15,has been restarted,01-10-2023 20:25,,0d 0h 9m 30s,Linux Server,Information
+01-10-2023 20:15,Zabbix proxy: Utilization of http poller processes is high,01-10-2023 20:16,,0d 0h 1m 0s,Zabbixproxy,Warning
+01-10-2023 20:15,Zabbix proxy: Utilization of http poller processes is high,01-10-2023 20:16,,0d 0h 1m 0s,Zabbixproxy2,Warning
+01-10-2023 20:15,Zabbix server: Utilization of http poller processes is high,01-10-2023 20:16,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+01-10-2023 20:15,Zabbix proxy: has been restarted,01-10-2023 20:25,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+01-10-2023 20:15,High CPU utilization,01-10-2023 20:16,,0d 0h 1m 0s,Linux Server,Average
+01-10-2023 02:27,Load average is too high,01-10-2023 02:29,,0d 0h 1m 49s,Zabbix-Server-Active,Warning
+01-10-2023 02:27,Load average is too high,01-10-2023 02:29,,0d 0h 1m 49s,Zabbix-Server-Active,Warning
+01-10-2023 02:27,Load average is too high,01-10-2023 02:29,,0d 0h 1m 49s,Zabbix-Server-Active,Warning
+01-10-2023 02:27,Load average is too high,01-10-2023 02:29,,0d 0h 1m 49s,Zabbix-Server-Active,Warning
+01-10-2023 02:25,Azure: There are errors in requests to API,01-10-2023 02:25,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 02:08,Azure: There are errors in requests to API,01-10-2023 02:08,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 01:52,Website Unavailable: Facebook,01-10-2023 02:02,,0d 0h 10m 0s,Zabbix-Server-Standby,Average
+01-10-2023 01:51,Azure: There are errors in requests to API,01-10-2023 01:51,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 01:20,Azure: There are errors in requests to API,01-10-2023 01:20,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 00:19,Azure: There are errors in requests to API,01-10-2023 00:19,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+01-10-2023 00:16,Port 8085 is down for sometime,01-10-2023 20:16,,0d 19h 59m 56s,Zabbix-Server-Active,High
+30-09-2023 23:47,Azure: There are errors in requests to API,30-09-2023 23:49,,0d 0h 1m 58s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 22:01,Forecast CPU Utilization High,30-09-2023 22:02,,0d 0h 1m 0s,Calculated and Aggregate items,Warning
+30-09-2023 20:56,Azure: There are errors in requests to API,30-09-2023 21:01,,0d 0h 4m 9s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 20:20,Website Unavailable: Facebook,01-10-2023 01:47,,0d 5h 26m 23s,Zabbix-Server-Standby,Average
+30-09-2023 19:45,Azure: There are errors in requests to API,30-09-2023 19:45,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 19:21,Azure: There are errors in requests to API,30-09-2023 19:21,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 19:19,Azure: There are errors in requests to API,30-09-2023 19:19,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 14:56,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,01-10-2023 20:15,,1d 5h 19m 0s,Zabbixproxy,Information
+30-09-2023 14:56,Zabbix server: More than 100 items having missing data for more than 10 minutes,01-10-2023 20:15,,1d 5h 19m 0s,Zabbix-Server-Active,Information
+30-09-2023 14:56,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,01-10-2023 20:15,,1d 5h 19m 0s,Zabbixproxy2,Information
+30-09-2023 14:56,Port 33767 is down for sometime,-,,,Zabbix-Server-Active,High
+30-09-2023 14:46,Azure: There are errors in requests to API,30-09-2023 14:46,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 14:42,Azure: There are errors in requests to API,30-09-2023 14:42,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+30-09-2023 14:40,Forecast Memory Utilization High,30-09-2023 14:43,,0d 0h 3m 0s,Calculated and Aggregate items,Warning
+30-09-2023 14:37,Zabbix server: Utilization of unreachable poller processes is high,-,,,Zabbix-Server-Active,Warning
+30-09-2023 14:37,Zabbix proxy: Utilization of unreachable poller processes is high,-,,,Zabbixproxy,Warning
+30-09-2023 14:35,Zabbix proxy: has been restarted,30-09-2023 14:45,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+30-09-2023 14:35,has been restarted,30-09-2023 14:45,,0d 0h 9m 30s,Linux Server,Information
+30-09-2023 14:35,has been restarted,30-09-2023 14:46,,0d 0h 10m 30s,Zabbix-Server-Active,Information
+30-09-2023 14:35,Zabbix proxy: Utilization of http poller processes is high,30-09-2023 14:37,,0d 0h 2m 0s,Zabbixproxy,Warning
+30-09-2023 14:35,Zabbix proxy: Utilization of http poller processes is high,30-09-2023 14:37,,0d 0h 2m 0s,Zabbixproxy2,Warning
+30-09-2023 14:35,Zabbix server: Utilization of http poller processes is high,30-09-2023 14:37,,0d 0h 2m 0s,Zabbix-Server-Active,Warning
+30-09-2023 14:35,Zabbix proxy: has been restarted,30-09-2023 14:45,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+30-09-2023 14:35,High CPU utilization,30-09-2023 14:36,,0d 0h 1m 0s,Linux Server,Average
+29-09-2023 18:17,Port 8085 is down for sometime,30-09-2023 14:36,,0d 20h 18m 18s,Zabbix-Server-Active,High
+29-09-2023 17:59,Azure Microsoft SQL: There are errors in requests to API,29-09-2023 17:59,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Warning
+29-09-2023 17:50,Azure: There are errors in requests to API,29-09-2023 17:51,,0d 0h 1m 54s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 17:41,Load average is too high,29-09-2023 17:46,,0d 0h 4m 59s,Zabbix-Server-Active,Warning
+29-09-2023 17:41,Load average is too high,29-09-2023 17:46,,0d 0h 4m 59s,Zabbix-Server-Active,Warning
+29-09-2023 17:41,Load average is too high,29-09-2023 17:46,,0d 0h 4m 59s,Zabbix-Server-Active,Warning
+29-09-2023 17:41,Load average is too high,29-09-2023 17:46,,0d 0h 4m 59s,Zabbix-Server-Active,Warning
+29-09-2023 17:20,Azure: There are errors in requests to API,29-09-2023 17:20,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 16:52,Azure: There are errors in requests to API,29-09-2023 16:54,,0d 0h 1m 58s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 16:49,Azure: There are errors in requests to API,29-09-2023 16:50,,0d 0h 1m 4s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 16:47,Azure: There are errors in requests to API,29-09-2023 16:49,,0d 0h 1m 58s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 16:18,Azure: There are errors in requests to API,29-09-2023 16:19,,0d 0h 1m 55s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 16:08,Website Unavailable: Facebook,30-09-2023 14:35,,0d 22h 26m 42s,Zabbix-Server-Standby,Average
+29-09-2023 15:51,Azure: There are errors in requests to API,29-09-2023 15:51,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 15:48,Azure: There are errors in requests to API,29-09-2023 15:49,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 15:38,Azure Microsoft SQL: There are errors in requests to API,29-09-2023 15:38,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Warning
+29-09-2023 15:35,Load average is too high,29-09-2023 15:35,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+29-09-2023 15:35,Load average is too high,29-09-2023 15:35,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+29-09-2023 15:35,Load average is too high,29-09-2023 15:35,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+29-09-2023 15:35,Load average is too high,29-09-2023 15:35,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+29-09-2023 15:22,Azure: There are errors in requests to API,29-09-2023 15:22,,0d 0h 0m 51s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 15:14,Unavailable by ICMP ping,-,,,Linux Server SNMP1,Average
+29-09-2023 14:51,Azure: There are errors in requests to API,29-09-2023 14:51,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 14:19,Forecast CPU Utilization High,29-09-2023 14:22,,0d 0h 3m 0s,Calculated and Aggregate items,Warning
+29-09-2023 14:13,Forecast CPU Utilization High,29-09-2023 14:16,,0d 0h 3m 0s,Calculated and Aggregate items,Warning
+29-09-2023 13:49,Load average is too high,29-09-2023 13:56,,0d 0h 7m 0s,Zabbix-Server-Active,Warning
+29-09-2023 13:49,Load average is too high,29-09-2023 13:56,,0d 0h 7m 0s,Zabbix-Server-Active,Warning
+29-09-2023 13:49,Load average is too high,29-09-2023 13:56,,0d 0h 7m 0s,Zabbix-Server-Active,Warning
+29-09-2023 13:49,Load average is too high,29-09-2023 13:56,,0d 0h 7m 0s,Zabbix-Server-Active,Warning
+29-09-2023 13:46,Azure: There are errors in requests to API,29-09-2023 13:51,,0d 0h 4m 9s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 13:04,/: Disk space is low,29-09-2023 13:10,,0d 0h 6m 0s,Linux Server,Information
+29-09-2023 13:04,/: Disk space is low,29-09-2023 13:10,,0d 0h 6m 0s,Linux Server,Information
+29-09-2023 13:04,/: Disk space is low,29-09-2023 13:10,,0d 0h 6m 0s,Linux Server,Information
+29-09-2023 13:04,/: Disk space is low,29-09-2023 13:10,,0d 0h 6m 0s,Linux Server,Information
+29-09-2023 12:52,Azure: There are errors in requests to API,29-09-2023 12:56,,0d 0h 3m 11s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 12:44,Combined triggers,29-09-2023 13:19,,0d 0h 35m 0s,Zabbix-Server-Active,Not Classified
+29-09-2023 12:44,Combined triggers,29-09-2023 13:19,,0d 0h 35m 0s,Zabbix-Server-Active,Not Classified
+29-09-2023 12:35,/: Disk space is low,29-09-2023 13:14,,0d 0h 39m 0s,Zabbix-Server-Active,Information
+29-09-2023 12:35,/: Disk space is low,29-09-2023 13:14,,0d 0h 39m 0s,Zabbix-Server-Active,Information
+29-09-2023 12:35,/: Disk space is low,29-09-2023 13:14,,0d 0h 39m 0s,Zabbix-Server-Active,Information
+29-09-2023 12:35,Space Utilization > 80%,29-09-2023 13:14,,0d 0h 39m 0s,Zabbix-Server-Active,Not Classified
+29-09-2023 12:35,/: Disk space is low,29-09-2023 13:14,,0d 0h 39m 0s,Zabbix-Server-Active,Information
+29-09-2023 12:28,/: Disk space is low,29-09-2023 13:00,,0d 0h 32m 0s,Linux Server,Information
+29-09-2023 12:28,/: Disk space is low,29-09-2023 13:00,,0d 0h 32m 0s,Linux Server,Information
+29-09-2023 12:28,/: Disk space is low,29-09-2023 13:00,,0d 0h 32m 0s,Linux Server,Information
+29-09-2023 12:28,/: Disk space is low,29-09-2023 13:00,,0d 0h 32m 0s,Linux Server,Information
+29-09-2023 12:15,Unavailable by ICMP ping,-,,,AP_3_Kerala_EK,Average
+29-09-2023 12:15,Unavailable by ICMP ping,-,,,AP_4_Mumbai_BN,Average
+29-09-2023 12:15,Unavailable by ICMP ping,-,,,AP_5_Kerala_EK,Average
+29-09-2023 11:57,Azure: There are errors in requests to API,29-09-2023 12:01,,0d 0h 4m 55s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 11:49,Azure: There are errors in requests to API,29-09-2023 11:56,,0d 0h 6m 59s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 11:47,Azure: There are errors in requests to API,29-09-2023 11:47,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 11:44,Azure: There are errors in requests to API,29-09-2023 11:44,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 11:19,Azure: There are errors in requests to API,29-09-2023 11:20,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 11:01,Azure: There are errors in requests to API,29-09-2023 11:01,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 10:18,Azure: There are errors in requests to API,29-09-2023 10:21,,0d 0h 3m 7s,Azure virtual machine Ubuntu20.04,Warning
+29-09-2023 09:55,Forecast CPU Utilization High,29-09-2023 10:00,,0d 0h 5m 0s,Calculated and Aggregate items,Warning
+29-09-2023 09:52,Zabbix agent is not available,-,,,AICIN,High
+29-09-2023 09:43,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,30-09-2023 14:35,,1d 4h 52m 0s,Zabbixproxy,Information
+29-09-2023 09:43,Zabbix server: More than 100 items having missing data for more than 10 minutes,30-09-2023 14:35,,1d 4h 52m 0s,Zabbix-Server-Active,Information
+29-09-2023 09:43,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,30-09-2023 14:35,,1d 4h 52m 0s,Zabbixproxy2,Information
+29-09-2023 09:42,Port 36771 is down for sometime,-,,,Zabbix-Server-Active,High
+29-09-2023 09:34,Forecast CPU Utilization High,29-09-2023 09:37,,0d 0h 3m 0s,Calculated and Aggregate items,Warning
+29-09-2023 09:28,Forecast Memory Utilization High,29-09-2023 09:33,,0d 0h 5m 0s,Calculated and Aggregate items,Warning
+29-09-2023 09:22,Zabbix proxy: has been restarted,29-09-2023 09:32,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+29-09-2023 09:22,Zabbix proxy: Utilization of http poller processes is high,29-09-2023 09:23,,0d 0h 1m 0s,Zabbixproxy,Warning
+29-09-2023 09:22,Zabbix proxy: Utilization of http poller processes is high,29-09-2023 09:23,,0d 0h 1m 0s,Zabbixproxy2,Warning
+29-09-2023 09:22,Zabbix server: Utilization of http poller processes is high,29-09-2023 09:23,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+29-09-2023 09:22,Zabbix proxy: has been restarted,29-09-2023 09:32,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+29-09-2023 09:22,has been restarted,29-09-2023 09:32,,0d 0h 10m 0s,Linux Server,Information
+29-09-2023 09:22,has been restarted,29-09-2023 09:31,,0d 0h 9m 43s,Zabbix-Server-Active,Information
+28-09-2023 22:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:50,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 22:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:50,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 22:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:50,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 22:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:44,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 22:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:44,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 22:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:44,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 22:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:40,,0d 0h 6m 35s,AICIN,Not Classified
+28-09-2023 22:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:40,,0d 0h 6m 35s,AICIN,Not Classified
+28-09-2023 22:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:40,,0d 0h 6m 35s,AICIN,Not Classified
+28-09-2023 22:29,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:31,,0d 0h 1m 4s,AICIN,Not Classified
+28-09-2023 22:29,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:31,,0d 0h 1m 4s,AICIN,Not Classified
+28-09-2023 22:29,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:31,,0d 0h 1m 4s,AICIN,Not Classified
+28-09-2023 22:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:28,,0d 0h 2m 32s,AICIN,Not Classified
+28-09-2023 22:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:28,,0d 0h 2m 32s,AICIN,Not Classified
+28-09-2023 22:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:28,,0d 0h 2m 32s,AICIN,Not Classified
+28-09-2023 22:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:22,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 22:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:22,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 22:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:22,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 22:07,High memory utilization,28-09-2023 22:09,,0d 0h 2m 0s,AICIN,Warning
+28-09-2023 22:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:06,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 22:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:06,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 22:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:06,,0d 0h 4m 3s,AICIN,Not Classified
+28-09-2023 21:59,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:00,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 21:59,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:00,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 21:59,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 22:00,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 21:52,Windows(C:): Disk space is critically low,28-09-2023 22:43,,0d 0h 50m 8s,AICIN,Warning
+28-09-2023 21:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:57,,0d 0h 4m 44s,AICIN,Not Classified
+28-09-2023 21:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:57,,0d 0h 4m 44s,AICIN,Not Classified
+28-09-2023 21:52,Windows(C:): Disk space is critically low,28-09-2023 22:43,,0d 0h 50m 8s,AICIN,Warning
+28-09-2023 21:52,Windows(C:): Disk space is critically low,28-09-2023 22:43,,0d 0h 50m 8s,AICIN,Warning
+28-09-2023 21:52,Windows(C:): Disk space is critically low,28-09-2023 22:43,,0d 0h 50m 8s,AICIN,Warning
+28-09-2023 21:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:57,,0d 0h 4m 44s,AICIN,Not Classified
+28-09-2023 21:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:51,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 21:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:51,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 21:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:51,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 21:47,Azure: There are errors in requests to API,28-09-2023 21:48,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 21:47,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:48,,0d 0h 1m 21s,AICIN,Not Classified
+28-09-2023 21:47,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:48,,0d 0h 1m 21s,AICIN,Not Classified
+28-09-2023 21:47,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:48,,0d 0h 1m 21s,AICIN,Not Classified
+28-09-2023 21:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:44,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 21:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:44,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 21:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:44,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 21:39,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:42,,0d 0h 3m 0s,AICIN,Not Classified
+28-09-2023 21:39,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:42,,0d 0h 3m 0s,AICIN,Not Classified
+28-09-2023 21:39,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:42,,0d 0h 3m 0s,AICIN,Not Classified
+28-09-2023 21:34,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:36,,0d 0h 1m 39s,AICIN,Information
+28-09-2023 21:34,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:36,,0d 0h 1m 39s,AICIN,Information
+28-09-2023 21:34,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:36,,0d 0h 1m 39s,AICIN,Information
+28-09-2023 21:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:36,,0d 0h 3m 11s,AICIN,Not Classified
+28-09-2023 21:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:36,,0d 0h 3m 11s,AICIN,Not Classified
+28-09-2023 21:33,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:36,,0d 0h 3m 11s,AICIN,Not Classified
+28-09-2023 21:26,High memory utilization,28-09-2023 21:28,,0d 0h 2m 0s,AICIN,Warning
+28-09-2023 21:24,Azure: There are errors in requests to API,28-09-2023 21:25,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 21:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:31,,0d 0h 10m 5s,AICIN,Not Classified
+28-09-2023 21:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:31,,0d 0h 10m 5s,AICIN,Not Classified
+28-09-2023 21:21,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:31,,0d 0h 10m 5s,AICIN,Not Classified
+28-09-2023 21:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:15,,0d 0h 1m 45s,AICIN,Not Classified
+28-09-2023 21:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:15,,0d 0h 1m 45s,AICIN,Not Classified
+28-09-2023 21:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:15,,0d 0h 1m 45s,AICIN,Not Classified
+28-09-2023 21:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:10,,0d 0h 1m 2s,AICIN,Not Classified
+28-09-2023 21:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:10,,0d 0h 1m 2s,AICIN,Not Classified
+28-09-2023 21:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:10,,0d 0h 1m 2s,AICIN,Not Classified
+28-09-2023 21:06,Azure Microsoft SQL: Microsoft SQL database is in unknown state,28-09-2023 21:06,,0d 0h 0m 47s,Azure Microsoft SQL database azure-sqlserver1,Information
+28-09-2023 21:06,Azure Microsoft SQL: There are errors in requests to API,28-09-2023 21:06,,0d 0h 0m 47s,Azure Microsoft SQL database azure-sqlserver1,Warning
+28-09-2023 21:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:05,,0d 0h 3m 1s,AICIN,Not Classified
+28-09-2023 21:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:05,,0d 0h 3m 1s,AICIN,Not Classified
+28-09-2023 21:02,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:05,,0d 0h 3m 1s,AICIN,Not Classified
+28-09-2023 20:58,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:01,,0d 0h 3m 14s,AICIN,Not Classified
+28-09-2023 20:58,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:01,,0d 0h 3m 14s,AICIN,Not Classified
+28-09-2023 20:58,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 21:01,,0d 0h 3m 14s,AICIN,Not Classified
+28-09-2023 20:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:56,,0d 0h 1m 32s,AICIN,Not Classified
+28-09-2023 20:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:56,,0d 0h 1m 32s,AICIN,Not Classified
+28-09-2023 20:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:56,,0d 0h 1m 32s,AICIN,Not Classified
+28-09-2023 20:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:34,,0d 0h 39m 46s,AICIN,Information
+28-09-2023 20:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:34,,0d 0h 39m 46s,AICIN,Information
+28-09-2023 20:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): High bandwidth usage,28-09-2023 21:34,,0d 0h 39m 46s,AICIN,Information
+28-09-2023 20:53,Windows(C:): Disk space is critically low,28-09-2023 20:58,,0d 0h 4m 14s,AICIN,Warning
+28-09-2023 20:53,Windows(C:): Disk space is critically low,28-09-2023 20:58,,0d 0h 4m 14s,AICIN,Warning
+28-09-2023 20:53,Windows(C:): Disk space is critically low,28-09-2023 20:58,,0d 0h 4m 14s,AICIN,Warning
+28-09-2023 20:53,Windows(C:): Disk space is critically low,28-09-2023 20:58,,0d 0h 4m 14s,AICIN,Warning
+28-09-2023 20:50,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:51,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 20:50,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:51,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 20:50,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:51,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 20:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:47,,0d 0h 4m 2s,AICIN,Not Classified
+28-09-2023 20:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:47,,0d 0h 4m 2s,AICIN,Not Classified
+28-09-2023 20:43,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:47,,0d 0h 4m 2s,AICIN,Not Classified
+28-09-2023 20:43,Azure: There are errors in requests to API,28-09-2023 20:44,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 20:38,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:39,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 20:38,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:39,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 20:38,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:39,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 20:30,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:36,,0d 0h 6m 6s,AICIN,Not Classified
+28-09-2023 20:30,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:36,,0d 0h 6m 6s,AICIN,Not Classified
+28-09-2023 20:30,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:36,,0d 0h 6m 6s,AICIN,Not Classified
+28-09-2023 20:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:27,,0d 0h 1m 3s,AICIN,Not Classified
+28-09-2023 20:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:27,,0d 0h 1m 3s,AICIN,Not Classified
+28-09-2023 20:26,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:27,,0d 0h 1m 3s,AICIN,Not Classified
+28-09-2023 20:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:23,,0d 0h 2m 34s,AICIN,Not Classified
+28-09-2023 20:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:23,,0d 0h 2m 34s,AICIN,Not Classified
+28-09-2023 20:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:23,,0d 0h 2m 34s,AICIN,Not Classified
+28-09-2023 20:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:15,,0d 0h 6m 3s,AICIN,Not Classified
+28-09-2023 20:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:15,,0d 0h 6m 3s,AICIN,Not Classified
+28-09-2023 20:09,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:15,,0d 0h 6m 3s,AICIN,Not Classified
+28-09-2023 20:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:07,,0d 0h 4m 33s,AICIN,Not Classified
+28-09-2023 20:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:07,,0d 0h 4m 33s,AICIN,Not Classified
+28-09-2023 20:03,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:07,,0d 0h 4m 33s,AICIN,Not Classified
+28-09-2023 20:00,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:01,,0d 0h 1m 25s,AICIN,Not Classified
+28-09-2023 20:00,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:01,,0d 0h 1m 25s,AICIN,Not Classified
+28-09-2023 20:00,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 20:01,,0d 0h 1m 25s,AICIN,Not Classified
+28-09-2023 19:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:56,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 19:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:56,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 19:55,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:56,,0d 0h 1m 1s,AICIN,Not Classified
+28-09-2023 19:55,Azure: There are errors in requests to API,28-09-2023 19:55,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 19:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:54,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:54,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:52,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:54,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:49,,0d 0h 3m 40s,AICIN,Not Classified
+28-09-2023 19:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:49,,0d 0h 3m 40s,AICIN,Not Classified
+28-09-2023 19:46,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:49,,0d 0h 3m 40s,AICIN,Not Classified
+28-09-2023 19:40,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:43,,0d 0h 3m 2s,AICIN,Not Classified
+28-09-2023 19:40,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:43,,0d 0h 3m 2s,AICIN,Not Classified
+28-09-2023 19:40,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:43,,0d 0h 3m 2s,AICIN,Not Classified
+28-09-2023 19:36,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:39,,0d 0h 3m 10s,AICIN,Not Classified
+28-09-2023 19:36,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:39,,0d 0h 3m 10s,AICIN,Not Classified
+28-09-2023 19:36,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:39,,0d 0h 3m 10s,AICIN,Not Classified
+28-09-2023 19:26,The Memory Pages/sec is too high,28-09-2023 19:29,,0d 0h 3m 2s,AICIN,Information
+28-09-2023 19:26,Azure: There are errors in requests to API,28-09-2023 19:26,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 19:25,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:33,,0d 0h 7m 34s,AICIN,Not Classified
+28-09-2023 19:25,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:33,,0d 0h 7m 34s,AICIN,Not Classified
+28-09-2023 19:25,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:33,,0d 0h 7m 34s,AICIN,Not Classified
+28-09-2023 19:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:22,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 19:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:22,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 19:20,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:22,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 19:17,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:19,,0d 0h 1m 23s,AICIN,Not Classified
+28-09-2023 19:17,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:19,,0d 0h 1m 23s,AICIN,Not Classified
+28-09-2023 19:17,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:19,,0d 0h 1m 23s,AICIN,Not Classified
+28-09-2023 19:13,Windows(C:): Disk space is critically low,28-09-2023 20:03,,0d 0h 50m 1s,AICIN,Warning
+28-09-2023 19:13,Windows(C:): Disk space is critically low,28-09-2023 20:03,,0d 0h 50m 1s,AICIN,Warning
+28-09-2023 19:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:14,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 19:13,Windows(C:): Disk space is critically low,28-09-2023 20:03,,0d 0h 50m 1s,AICIN,Warning
+28-09-2023 19:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:14,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 19:13,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:14,,0d 0h 1m 31s,AICIN,Not Classified
+28-09-2023 19:13,Windows(C:): Disk space is critically low,28-09-2023 20:03,,0d 0h 50m 1s,AICIN,Warning
+28-09-2023 19:10,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:11,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:10,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:11,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:10,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:11,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 19:04,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:07,,0d 0h 3m 8s,AICIN,Not Classified
+28-09-2023 19:04,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:07,,0d 0h 3m 8s,AICIN,Not Classified
+28-09-2023 19:04,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:07,,0d 0h 3m 8s,AICIN,Not Classified
+28-09-2023 19:01,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:02,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 19:01,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:02,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 19:01,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 19:02,,0d 0h 1m 29s,AICIN,Not Classified
+28-09-2023 18:56,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:59,,0d 0h 2m 54s,AICIN,Not Classified
+28-09-2023 18:56,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:59,,0d 0h 2m 54s,AICIN,Not Classified
+28-09-2023 18:56,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:59,,0d 0h 2m 54s,AICIN,Not Classified
+28-09-2023 18:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:55,,0d 0h 1m 0s,AICIN,Not Classified
+28-09-2023 18:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:55,,0d 0h 1m 0s,AICIN,Not Classified
+28-09-2023 18:54,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:55,,0d 0h 1m 0s,AICIN,Not Classified
+28-09-2023 18:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:53,,0d 0h 4m 32s,AICIN,Not Classified
+28-09-2023 18:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:53,,0d 0h 4m 32s,AICIN,Not Classified
+28-09-2023 18:49,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:53,,0d 0h 4m 32s,AICIN,Not Classified
+28-09-2023 18:44,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:46,,0d 0h 1m 43s,AICIN,Not Classified
+28-09-2023 18:44,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:46,,0d 0h 1m 43s,AICIN,Not Classified
+28-09-2023 18:44,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:46,,0d 0h 1m 43s,AICIN,Not Classified
+28-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:43,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:43,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Ethernet has changed to lower speed than it was before,28-09-2023 18:43,,0d 0h 1m 30s,AICIN,Not Classified
+28-09-2023 18:26,Azure: There are errors in requests to API,28-09-2023 18:29,,0d 0h 3m 50s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 18:19,Azure: There are errors in requests to API,28-09-2023 18:20,,0d 0h 1m 55s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 17:51,Azure: There are errors in requests to API,28-09-2023 17:55,,0d 0h 3m 58s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 17:46,Azure: There are errors in requests to API,28-09-2023 17:49,,0d 0h 2m 11s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 17:42,Azure Microsoft SQL: Microsoft SQL database is in unknown state,28-09-2023 17:42,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Information
+28-09-2023 17:42,Azure Microsoft SQL: There are errors in requests to API,28-09-2023 17:42,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Warning
+28-09-2023 17:21,Azure: There are errors in requests to API,28-09-2023 17:23,,0d 0h 1m 56s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 17:19,Azure: There are errors in requests to API,28-09-2023 17:19,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 16:49,Azure: There are errors in requests to API,28-09-2023 16:49,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 16:19,Azure: There are errors in requests to API,28-09-2023 16:19,,0d 0h 0m 53s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 16:17,Azure: There are errors in requests to API,28-09-2023 16:17,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 15:53,Azure: There are errors in requests to API,28-09-2023 15:54,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 15:48,Azure: There are errors in requests to API,28-09-2023 15:50,,0d 0h 2m 3s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 15:22,Website Unavailable: Facebook,29-09-2023 09:22,,0d 18h 0m 34s,Zabbix-Server-Standby,Average
+28-09-2023 14:55,Website Unavailable: Facebook,28-09-2023 15:15,,0d 0h 20m 0s,Zabbix-Server-Standby,Average
+28-09-2023 14:48,Azure: There are errors in requests to API,28-09-2023 14:48,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 14:39,The Memory Pages/sec is too high,28-09-2023 14:42,,0d 0h 2m 48s,AICIN,Information
+28-09-2023 14:37,Windows(C:): Disk space is critically low,28-09-2023 15:40,,0d 1h 3m 43s,AICIN,Warning
+28-09-2023 14:37,Windows(C:): Disk space is critically low,28-09-2023 15:40,,0d 1h 3m 43s,AICIN,Warning
+28-09-2023 14:37,Windows(C:): Disk space is critically low,28-09-2023 15:40,,0d 1h 3m 43s,AICIN,Warning
+28-09-2023 14:37,Windows(C:): Disk space is critically low,28-09-2023 15:40,,0d 1h 3m 43s,AICIN,Warning
+28-09-2023 14:23,Azure: There are errors in requests to API,28-09-2023 14:24,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 14:18,Azure: There are errors in requests to API,28-09-2023 14:21,,0d 0h 2m 10s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 14:17,Azure: There are errors in requests to API,28-09-2023 14:17,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 14:05,Load average is too high,28-09-2023 14:05,,0d 0h 0m 47s,Zabbix-Server-Active,Warning
+28-09-2023 14:05,Load average is too high,28-09-2023 14:05,,0d 0h 0m 47s,Zabbix-Server-Active,Warning
+28-09-2023 14:05,Load average is too high,28-09-2023 14:05,,0d 0h 0m 47s,Zabbix-Server-Active,Warning
+28-09-2023 14:05,Load average is too high,28-09-2023 14:05,,0d 0h 0m 47s,Zabbix-Server-Active,Warning
+28-09-2023 13:25,Website Unavailable: Facebook,28-09-2023 13:30,,0d 0h 5m 1s,Zabbix-Server-Standby,Average
+28-09-2023 13:22,Windows(C:): Disk space is critically low,28-09-2023 14:05,,0d 0h 42m 38s,AICIN,Warning
+28-09-2023 13:22,Windows(C:): Disk space is critically low,28-09-2023 14:05,,0d 0h 42m 38s,AICIN,Warning
+28-09-2023 13:22,Windows(C:): Disk space is critically low,28-09-2023 14:05,,0d 0h 42m 38s,AICIN,Warning
+28-09-2023 13:22,Windows(C:): Disk space is critically low,28-09-2023 14:05,,0d 0h 42m 38s,AICIN,Warning
+28-09-2023 12:53,Website Unavailable: Facebook,28-09-2023 12:58,,0d 0h 5m 0s,Zabbix-Server-Standby,Average
+28-09-2023 11:56,Azure: There are errors in requests to API,28-09-2023 12:07,,0d 0h 11m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 11:52,Azure: There are errors in requests to API,28-09-2023 11:54,,0d 0h 2m 54s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 11:49,Azure: There are errors in requests to API,28-09-2023 11:51,,0d 0h 1m 57s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 11:45,Windows(C:): Disk space is critically low,28-09-2023 12:38,,0d 0h 53m 8s,AICIN,Warning
+28-09-2023 11:45,Windows(C:): Disk space is critically low,28-09-2023 12:38,,0d 0h 53m 8s,AICIN,Warning
+28-09-2023 11:45,Windows(C:): Disk space is critically low,28-09-2023 12:38,,0d 0h 53m 8s,AICIN,Warning
+28-09-2023 11:45,Windows(C:): Disk space is critically low,28-09-2023 12:38,,0d 0h 53m 8s,AICIN,Warning
+28-09-2023 10:44,Windows(C:): Disk space is critically low,28-09-2023 11:37,,0d 0h 53m 10s,AICIN,Warning
+28-09-2023 10:44,Windows(C:): Disk space is critically low,28-09-2023 11:37,,0d 0h 53m 10s,AICIN,Warning
+28-09-2023 10:44,Windows(C:): Disk space is critically low,28-09-2023 11:37,,0d 0h 53m 10s,AICIN,Warning
+28-09-2023 10:44,Windows(C:): Disk space is critically low,28-09-2023 11:37,,0d 0h 53m 10s,AICIN,Warning
+28-09-2023 10:30,The Memory Pages/sec is too high,28-09-2023 10:31,,0d 0h 1m 5s,AICIN,Information
+28-09-2023 10:01,Windows(C:): Disk space is critically low,28-09-2023 10:04,,0d 0h 3m 12s,AICIN,Warning
+28-09-2023 10:01,Windows(C:): Disk space is critically low,28-09-2023 10:04,,0d 0h 3m 12s,AICIN,Warning
+28-09-2023 10:01,Windows(C:): Disk space is critically low,28-09-2023 10:04,,0d 0h 3m 12s,AICIN,Warning
+28-09-2023 10:01,Windows(C:): Disk space is critically low,28-09-2023 10:04,,0d 0h 3m 12s,AICIN,Warning
+28-09-2023 10:00,Host has been restarted,28-09-2023 10:07,,0d 0h 7m 33s,AICIN,Information
+28-09-2023 09:59,The Memory Pages/sec is too high,28-09-2023 10:00,,0d 0h 1m 0s,AICIN,Information
+28-09-2023 09:49,Azure: There are errors in requests to API,28-09-2023 09:50,,0d 0h 1m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 09:19,Azure: There are errors in requests to API,28-09-2023 09:22,,0d 0h 2m 9s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:56,Azure: There are errors in requests to API,28-09-2023 08:56,,0d 0h 0m 51s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:54,Azure: There are errors in requests to API,28-09-2023 08:55,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:46,Azure: There are errors in requests to API,28-09-2023 08:53,,0d 0h 6m 11s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:44,Website Unavailable: Facebook,28-09-2023 12:51,,0d 4h 7m 31s,Zabbix-Server-Standby,Average
+28-09-2023 08:29,Azure: There are errors in requests to API,28-09-2023 08:31,,0d 0h 2m 0s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:18,Azure: There are errors in requests to API,28-09-2023 08:19,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 08:13,Website Unavailable: Facebook,28-09-2023 08:28,,0d 0h 14m 59s,Zabbix-Server-Standby,Average
+28-09-2023 07:49,Azure: There are errors in requests to API,28-09-2023 07:51,,0d 0h 1m 10s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:47,Azure: There are errors in requests to API,28-09-2023 06:49,,0d 0h 2m 54s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:16,Azure: There are errors in requests to API,28-09-2023 06:17,,0d 0h 1m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:13,Azure: There are errors in requests to API,28-09-2023 06:13,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:11,Azure: There are errors in requests to API,28-09-2023 06:11,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:07,Azure: There are errors in requests to API,28-09-2023 06:08,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:04,Azure: There are errors in requests to API,28-09-2023 06:04,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 06:00,Azure: There are errors in requests to API,28-09-2023 06:03,,0d 0h 2m 59s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 05:57,Azure: There are errors in requests to API,28-09-2023 05:58,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 05:45,Azure: There are errors in requests to API,28-09-2023 05:56,,0d 0h 10m 59s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 05:24,Azure: There are errors in requests to API,28-09-2023 05:25,,0d 0h 1m 49s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 05:20,Azure: There are errors in requests to API,28-09-2023 05:21,,0d 0h 1m 7s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 04:54,Load average is too high,28-09-2023 04:59,,0d 0h 5m 0s,Zabbix-Server-Active,Warning
+28-09-2023 04:54,Load average is too high,28-09-2023 04:59,,0d 0h 5m 0s,Zabbix-Server-Active,Warning
+28-09-2023 04:54,Load average is too high,28-09-2023 04:59,,0d 0h 5m 0s,Zabbix-Server-Active,Warning
+28-09-2023 04:54,Load average is too high,28-09-2023 04:59,,0d 0h 5m 0s,Zabbix-Server-Active,Warning
+28-09-2023 03:38,Azure: There are errors in requests to API,28-09-2023 03:38,,0d 0h 0m 47s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 03:15,Zabbix agent is not available,28-09-2023 10:00,,0d 6h 44m 53s,AICIN,High
+28-09-2023 02:57,Azure: There are errors in requests to API,28-09-2023 02:57,,0d 0h 0m 47s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 02:50,Azure Microsoft SQL: There are errors in requests to API,28-09-2023 02:50,,0d 0h 0m 46s,Azure Microsoft SQL database azure-sqlserver1,Warning
+28-09-2023 02:48,Azure: There are errors in requests to API,28-09-2023 02:50,,0d 0h 2m 54s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 02:41,Azure: There are errors in requests to API,28-09-2023 02:42,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 02:37,Azure: There are errors in requests to API,28-09-2023 02:39,,0d 0h 1m 56s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 02:22,Azure: There are errors in requests to API,28-09-2023 02:23,,0d 0h 1m 54s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 02:18,Azure: There are errors in requests to API,28-09-2023 02:20,,0d 0h 2m 2s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 01:43,Website Unavailable: Facebook,28-09-2023 04:54,,0d 3h 11m 3s,Zabbix-Server-Standby,Average
+28-09-2023 01:24,Azure: There are errors in requests to API,28-09-2023 01:24,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 01:17,Azure: There are errors in requests to API,28-09-2023 01:18,,0d 0h 1m 2s,Azure virtual machine Ubuntu20.04,Warning
+28-09-2023 01:03,High memory utilization,28-09-2023 01:19,,0d 0h 16m 0s,AICIN,Warning
+28-09-2023 00:52,High memory utilization,28-09-2023 00:54,,0d 0h 2m 0s,AICIN,Warning
+28-09-2023 00:15,Port 8085 is down for sometime,29-09-2023 09:22,,1d 9h 7m 50s,Zabbix-Server-Active,High
+27-09-2023 23:52,Azure: There are errors in requests to API,27-09-2023 23:53,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 23:37,Windows(C:): Disk space is critically low,28-09-2023 01:25,,0d 1h 48m 7s,AICIN,Warning
+27-09-2023 23:37,Windows(C:): Disk space is critically low,28-09-2023 01:25,,0d 1h 48m 7s,AICIN,Warning
+27-09-2023 23:37,Windows(C:): Disk space is critically low,28-09-2023 01:25,,0d 1h 48m 7s,AICIN,Warning
+27-09-2023 23:37,Windows(C:): Disk space is critically low,28-09-2023 01:25,,0d 1h 48m 7s,AICIN,Warning
+27-09-2023 22:35,Website Unavailable: Facebook,27-09-2023 22:50,,0d 0h 15m 0s,Zabbix-Server-Standby,Average
+27-09-2023 21:45,Windows(C:): Disk space is critically low,27-09-2023 22:26,,0d 0h 40m 47s,AICIN,Warning
+27-09-2023 21:45,Windows(C:): Disk space is critically low,27-09-2023 22:26,,0d 0h 40m 47s,AICIN,Warning
+27-09-2023 21:45,Windows(C:): Disk space is critically low,27-09-2023 22:26,,0d 0h 40m 47s,AICIN,Warning
+27-09-2023 21:45,Windows(C:): Disk space is critically low,27-09-2023 22:26,,0d 0h 40m 47s,AICIN,Warning
+27-09-2023 19:47,High memory utilization,27-09-2023 20:09,,0d 0h 22m 0s,AICIN,Warning
+27-09-2023 19:26,High memory utilization,27-09-2023 19:28,,0d 0h 2m 0s,AICIN,Warning
+27-09-2023 19:15,High memory utilization,27-09-2023 19:17,,0d 0h 2m 0s,AICIN,Warning
+27-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Link down,28-09-2023 18:41,,1d 0h 0m 19s,AICIN,Warning
+27-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Link down,28-09-2023 18:41,,1d 0h 0m 19s,AICIN,Warning
+27-09-2023 18:41,Interface MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter(Wi-Fi): Link down,28-09-2023 18:41,,1d 0h 0m 19s,AICIN,Warning
+27-09-2023 18:40,CPU queue length is too high,27-09-2023 18:41,,0d 0h 1m 0s,AICIN,Information
+27-09-2023 18:40,CPU queue length is too high,27-09-2023 18:41,,0d 0h 1m 0s,AICIN,Information
+27-09-2023 18:33,MySQL: Failed to fetch info data,-,,,Mysql,High
+27-09-2023 18:33,MySQL: Failed to fetch info data,-,,,standby-node-2,Not Classified
+27-09-2023 18:33,Nginx: Failed to fetch stub status page,-,,,NGINX,Information
+27-09-2023 18:33,Nginx: Failed to fetch stub status page,-,,,NGINX,Information
+27-09-2023 18:33,Nginx: Failed to fetch stub status page,-,,,standby-node-2,Information
+27-09-2023 18:33,Nginx: Failed to fetch stub status page,-,,,standby-node-2,Information
+27-09-2023 18:33,PostgreSQL: Failed to get items,-,,,PG2c,Information
+27-09-2023 18:32,Nginx: Failed to fetch stub status page,-,,,NGINX clone,Information
+27-09-2023 18:32,Nginx: Failed to fetch stub status page,-,,,NGINX clone,Information
+27-09-2023 18:20,Azure: There are errors in requests to API,27-09-2023 18:22,,0d 0h 1m 9s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 18:18,WildFly: Failed to fetch info data,-,,,Wildfly-Jboss-JMX,Information
+27-09-2023 18:12,MongoDB: Failed to fetch info data,-,,,MongoDB,Information
+27-09-2023 18:12,Forecast CPU Utilization High,27-09-2023 18:22,,0d 0h 10m 0s,Calculated and Aggregate items,Warning
+27-09-2023 18:11,Windows(C:): Disk space is critically low,27-09-2023 18:26,,0d 0h 15m 12s,AICIN,Warning
+27-09-2023 18:11,Windows(C:): Disk space is critically low,27-09-2023 18:26,,0d 0h 15m 12s,AICIN,Warning
+27-09-2023 18:11,Windows(C:): Disk space is critically low,27-09-2023 18:26,,0d 0h 15m 12s,AICIN,Warning
+27-09-2023 18:11,Windows(C:): Disk space is critically low,27-09-2023 18:26,,0d 0h 15m 12s,AICIN,Warning
+27-09-2023 18:07,Zabbix agent is not available,-,,,Zabbix-Server-Standby,Warning
+27-09-2023 18:07,Zabbix agent is not available,-,,,standby-node-2,Warning
+27-09-2023 18:06,Unavailable by ICMP ping,-,,,AP_10_Mumbai_BN,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_2_Mumbai_KL,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_26_Mumbai_KL,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_19_Mumbai_BN,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_7_Mumbai_KL,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_17_Mumbai_BN,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_16_Kerala_EK,Average
+27-09-2023 18:05,Unavailable by ICMP ping,-,,,AP_13_Mumbai_BN,Average
+27-09-2023 18:04,Website Unavailable: Grafana,-,,,Web Scenario,Average
+27-09-2023 18:04,Website Unavailable: Grafana,-,,,Zabbix-Server-Standby,Average
+27-09-2023 17:53,Azure: There are errors in requests to API,27-09-2023 17:53,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 17:48,Azure: There are errors in requests to API,27-09-2023 17:51,,0d 0h 2m 10s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 17:22,Azure: There are errors in requests to API,27-09-2023 17:22,,0d 0h 0m 54s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 17:18,Azure: There are errors in requests to API,27-09-2023 17:20,,0d 0h 2m 49s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 16:50,Website Unavailable: Facebook,27-09-2023 20:20,,0d 3h 30m 9s,Zabbix-Server-Standby,Average
+27-09-2023 16:43,Load average is too high,27-09-2023 16:54,,0d 0h 10m 14s,Zabbix-Server-Active,Warning
+27-09-2023 16:43,Load average is too high,27-09-2023 16:54,,0d 0h 10m 14s,Zabbix-Server-Active,Warning
+27-09-2023 16:43,Load average is too high,27-09-2023 16:54,,0d 0h 10m 14s,Zabbix-Server-Active,Warning
+27-09-2023 16:43,Load average is too high,27-09-2023 16:54,,0d 0h 10m 14s,Zabbix-Server-Active,Warning
+27-09-2023 16:41,Forecast CPU Utilization High,27-09-2023 16:52,,0d 0h 11m 0s,Calculated and Aggregate items,Warning
+27-09-2023 16:32,Load average is too high,27-09-2023 16:36,,0d 0h 3m 57s,Zabbix-Server-Active,Warning
+27-09-2023 16:32,Load average is too high,27-09-2023 16:36,,0d 0h 3m 57s,Zabbix-Server-Active,Warning
+27-09-2023 16:32,Load average is too high,27-09-2023 16:36,,0d 0h 3m 57s,Zabbix-Server-Active,Warning
+27-09-2023 16:32,Load average is too high,27-09-2023 16:36,,0d 0h 3m 57s,Zabbix-Server-Active,Warning
+27-09-2023 16:18,Load average is too high,27-09-2023 16:26,,0d 0h 7m 59s,Zabbix-Server-Active,Warning
+27-09-2023 16:18,Load average is too high,27-09-2023 16:26,,0d 0h 7m 59s,Zabbix-Server-Active,Warning
+27-09-2023 16:18,Load average is too high,27-09-2023 16:26,,0d 0h 7m 59s,Zabbix-Server-Active,Warning
+27-09-2023 16:18,Load average is too high,27-09-2023 16:26,,0d 0h 7m 59s,Zabbix-Server-Active,Warning
+27-09-2023 15:53,Azure: There are errors in requests to API,27-09-2023 15:53,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 15:49,Azure: There are errors in requests to API,27-09-2023 15:50,,0d 0h 1m 55s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 15:46,High memory utilization,27-09-2023 15:53,,0d 0h 7m 0s,AICIN,Warning
+27-09-2023 15:45,Azure: There are errors in requests to API,27-09-2023 15:45,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 15:38,Load average is too high,27-09-2023 15:42,,0d 0h 4m 12s,Zabbix-Server-Active,Warning
+27-09-2023 15:38,Load average is too high,27-09-2023 15:42,,0d 0h 4m 12s,Zabbix-Server-Active,Warning
+27-09-2023 15:38,Load average is too high,27-09-2023 15:42,,0d 0h 4m 12s,Zabbix-Server-Active,Warning
+27-09-2023 15:38,Load average is too high,27-09-2023 15:42,,0d 0h 4m 12s,Zabbix-Server-Active,Warning
+27-09-2023 15:37,Windows(C:): Disk space is critically low,27-09-2023 16:40,,0d 1h 2m 10s,AICIN,Warning
+27-09-2023 15:37,Windows(C:): Disk space is critically low,27-09-2023 16:40,,0d 1h 2m 10s,AICIN,Warning
+27-09-2023 15:37,Windows(C:): Disk space is critically low,27-09-2023 16:40,,0d 1h 2m 10s,AICIN,Warning
+27-09-2023 15:37,Windows(C:): Disk space is critically low,27-09-2023 16:40,,0d 1h 2m 10s,AICIN,Warning
+27-09-2023 15:33,Windows(C:): Disk space is low,27-09-2023 18:26,,0d 2h 52m 55s,AICIN,Information
+27-09-2023 15:33,Windows(C:): Disk space is low,27-09-2023 18:26,,0d 2h 52m 55s,AICIN,Information
+27-09-2023 15:33,Windows(C:): Disk space is low,27-09-2023 18:26,,0d 2h 52m 55s,AICIN,Information
+27-09-2023 15:33,Windows(C:): Disk space is low,27-09-2023 18:26,,0d 2h 52m 55s,AICIN,Information
+27-09-2023 15:30,Website Unavailable: Facebook,27-09-2023 16:45,,0d 1h 14m 40s,Zabbix-Server-Standby,Average
+27-09-2023 15:17,Azure: There are errors in requests to API,27-09-2023 15:19,,0d 0h 1m 11s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 15:14,Load average is too high,27-09-2023 15:23,,0d 0h 9m 0s,Zabbix-Server-Active,Warning
+27-09-2023 15:14,Load average is too high,27-09-2023 15:23,,0d 0h 9m 0s,Zabbix-Server-Active,Warning
+27-09-2023 15:14,Load average is too high,27-09-2023 15:23,,0d 0h 9m 0s,Zabbix-Server-Active,Warning
+27-09-2023 15:14,Load average is too high,27-09-2023 15:23,,0d 0h 9m 0s,Zabbix-Server-Active,Warning
+27-09-2023 15:12,Operating system description has changed,-,,,grafana-server,Not Classified
+27-09-2023 15:12,Operating system description has changed,-,,,grafana-server,Not Classified
+27-09-2023 15:12,Operating system description has changed,-,,,grafana-server,Not Classified
+27-09-2023 14:56,Forecast CPU Utilization High,27-09-2023 14:57,,0d 0h 1m 0s,Calculated and Aggregate items,Warning
+27-09-2023 14:39,Load average is too high,27-09-2023 14:39,,0d 0h 0m 1s,Zabbix-Server-Active,Warning
+27-09-2023 14:39,Load average is too high,27-09-2023 14:39,,0d 0h 0m 1s,Zabbix-Server-Active,Warning
+27-09-2023 14:39,Load average is too high,27-09-2023 14:39,,0d 0h 0m 1s,Zabbix-Server-Active,Warning
+27-09-2023 14:39,Load average is too high,27-09-2023 14:39,,0d 0h 0m 1s,Zabbix-Server-Active,Warning
+27-09-2023 14:22,Azure: There are errors in requests to API,27-09-2023 14:24,,0d 0h 2m 2s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 14:19,has been restarted,27-09-2023 14:27,,0d 0h 8m 30s,AP_17_Mumbai_BN,Information
+27-09-2023 14:18,has been restarted,27-09-2023 14:27,,0d 0h 8m 30s,AP_13_Mumbai_BN,Information
+27-09-2023 14:18,WildFly: has been restarted,27-09-2023 14:28,,0d 0h 9m 14s,Wildfly-Jboss-JMX,Not Classified
+27-09-2023 14:18,has been restarted,27-09-2023 14:27,,0d 0h 9m 5s,AP_7_Mumbai_KL,Information
+27-09-2023 14:18,has been restarted,27-09-2023 14:27,,0d 0h 9m 5s,AP_19_Mumbai_BN,Information
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 0m 58s,AP_10_Mumbai_BN,Warning
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 0m 58s,AP_10_Mumbai_BN,Warning
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 0m 58s,AP_10_Mumbai_BN,Warning
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 0m 58s,AP_10_Mumbai_BN,Warning
+27-09-2023 14:18,has been restarted,27-09-2023 14:27,,0d 0h 8m 59s,AP_10_Mumbai_BN,Information
+27-09-2023 14:18,has been restarted,27-09-2023 14:27,,0d 0h 8m 55s,AP_2_Mumbai_KL,Information
+27-09-2023 14:18,systemd-fsck-root.service: has been restarted,27-09-2023 14:27,,0d 0h 9m 0s,Systemd services,Not Classified
+27-09-2023 14:18,lvm2-monitor.service: has been restarted,27-09-2023 14:27,,0d 0h 9m 0s,Systemd services,Not Classified
+27-09-2023 14:18,pcsd.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,keyboard-setup.service: has been restarted,27-09-2023 14:27,,0d 0h 9m 0s,Systemd services,Not Classified
+27-09-2023 14:18,snapd.seeded.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,cloud-init.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,setvtrgb.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,snapd.apparmor.service: has been restarted,27-09-2023 14:27,,0d 0h 9m 0s,Systemd services,Not Classified
+27-09-2023 14:18,binfmt-support.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,pacemaker.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,cloud-init-local.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 1m 32s,AP_17_Mumbai_BN,Warning
+27-09-2023 14:18,rsyslog.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,serial-getty@ttyS0.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,cloud-final.service: has been restarted,27-09-2023 14:28,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 1m 32s,AP_17_Mumbai_BN,Warning
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 1m 32s,AP_17_Mumbai_BN,Warning
+27-09-2023 14:18,Load average is too high,27-09-2023 14:19,,0d 0h 1m 32s,AP_17_Mumbai_BN,Warning
+27-09-2023 14:17,has been restarted,27-09-2023 14:27,,0d 0h 9m 41s,AP_26_Mumbai_KL,Information
+27-09-2023 14:17,No SNMP data collection,27-09-2023 14:18,,0d 0h 1m 0s,AP_17_Mumbai_BN,Information
+27-09-2023 14:17,PostgreSQL: Service has been restarted,27-09-2023 14:27,,0d 0h 10m 4s,PG2c,Not Classified
+27-09-2023 14:17,snapd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,systemd-timesyncd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,ModemManager.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,atd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,corosync.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,finalrd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,Zabbix proxy: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,grafana-server,Not Classified
+27-09-2023 14:17,systemd-remount-fs.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,udisks2.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,containerd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,accounts-daemon.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,haproxy.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,systemd-resolved.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,sysstat.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,cloud-config.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,Load average is too high,27-09-2023 14:19,,0d 0h 1m 50s,AP_13_Mumbai_BN,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:19,,0d 0h 1m 50s,AP_13_Mumbai_BN,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:19,,0d 0h 1m 50s,AP_13_Mumbai_BN,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:19,,0d 0h 1m 50s,AP_13_Mumbai_BN,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:18,,0d 0h 0m 50s,Docker server,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:18,,0d 0h 0m 50s,Docker server,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:18,,0d 0h 0m 50s,Docker server,Warning
+27-09-2023 14:17,Load average is too high,27-09-2023 14:18,,0d 0h 0m 50s,Docker server,Warning
+27-09-2023 14:17,logd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,has been restarted,27-09-2023 14:27,,0d 0h 9m 56s,AP_16_Kerala_EK,Information
+27-09-2023 14:17,ssh.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,systemd-networkd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,cron.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,multipathd.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,No SNMP data collection,27-09-2023 14:18,,0d 0h 1m 0s,AP_13_Mumbai_BN,Information
+27-09-2023 14:17,ufw.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,zabbix-agent2.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,console-setup.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,snap.amazon-ssm-agent.amazon-ssm-agent.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,blk-availability.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,zabbix-proxy.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,getty@tty1.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,unattended-upgrades.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,MongoDB: has been restarted,27-09-2023 14:27,,0d 0h 10m 7s,MongoDB,Not Classified
+27-09-2023 14:17,caddy.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,systemd-networkd-wait-online.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,networkd-dispatcher.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,apparmor.service: has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Systemd services,Not Classified
+27-09-2023 14:17,snapd.seeded.service: Service is not running,27-09-2023 14:18,,0d 0h 0m 56s,Systemd services,Information
+27-09-2023 14:17,Docker: Failed to fetch info data,27-09-2023 14:17,,0d 0h 0m 18s,Docker server,Information
+27-09-2023 14:17,has been restarted,27-09-2023 14:27,,0d 0h 10m 0s,Docker server,High
+27-09-2023 14:17,Azure: There are errors in requests to API,27-09-2023 14:18,,0d 0h 1m 52s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 14:16,MySQL: Service is down,27-09-2023 14:42,,0d 0h 26m 0s,Mysql,Average
+27-09-2023 12:22,/etc/passwd has been changed,27-09-2023 13:22,,0d 1h 0m 0s,Zabbix-Server-Standby,Not Classified
+27-09-2023 12:22,/etc/passwd has been changed,27-09-2023 13:22,,0d 1h 0m 0s,Zabbix-Server-Standby,Not Classified
+27-09-2023 12:20,/etc/passwd has been changed,27-09-2023 13:20,,0d 1h 0m 0s,standby-node-2,Not Classified
+27-09-2023 12:20,/etc/passwd has been changed,27-09-2023 13:20,,0d 1h 0m 0s,standby-node-2,Not Classified
+27-09-2023 12:19,Azure: There are errors in requests to API,27-09-2023 12:21,,0d 0h 1m 11s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,standby-node-2,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,standby-node-2,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,standby-node-2,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,standby-node-2,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,Zabbix-Server-Standby,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,Zabbix-Server-Standby,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,Zabbix-Server-Standby,Warning
+27-09-2023 12:19,/: Disk space is critically low,-,,,Zabbix-Server-Standby,Warning
+27-09-2023 12:12,High CPU utilization,27-09-2023 12:13,,0d 0h 1m 0s,standby-node-2,Average
+27-09-2023 11:57,Azure: There are errors in requests to API,27-09-2023 11:57,,0d 0h 0m 47s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 11:49,Azure: There are errors in requests to API,27-09-2023 11:49,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 11:07,/etc/passwd has been changed,27-09-2023 12:07,,0d 1h 0m 0s,Zabbix-Server-Standby,Not Classified
+27-09-2023 11:07,/etc/passwd has been changed,27-09-2023 12:07,,0d 1h 0m 0s,Zabbix-Server-Standby,Not Classified
+27-09-2023 11:05,/etc/passwd has been changed,27-09-2023 12:05,,0d 1h 0m 0s,standby-node-2,Not Classified
+27-09-2023 11:05,/etc/passwd has been changed,27-09-2023 12:05,,0d 1h 0m 0s,standby-node-2,Not Classified
+27-09-2023 11:03,Azure: There are errors in requests to API,27-09-2023 11:04,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 10:46,has been restarted,27-09-2023 10:55,,0d 0h 9m 0s,Zabbix-Server-Standby,Information
+27-09-2023 10:46,{HOST.NAME} is unavailable by ICMP - ({HOST.IP}),27-09-2023 18:06,,0d 7h 20m 0s,Zabbix-Server-Standby,Average
+27-09-2023 10:46,has been restarted,27-09-2023 10:55,,0d 0h 9m 32s,standby-node-2,Information
+27-09-2023 10:46,High CPU utilization,27-09-2023 10:47,,0d 0h 0m 56s,standby-node-2,Average
+27-09-2023 10:40,Azure: There are errors in requests to API,27-09-2023 10:40,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 10:24,Azure: There are errors in requests to API,27-09-2023 10:24,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 10:20,Port 39285 is down for sometime,-,,,Zabbix-Server-Active,High
+27-09-2023 10:19,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,29-09-2023 09:22,,1d 23h 3m 0s,Zabbixproxy,Information
+27-09-2023 10:19,Zabbix server: More than 100 items having missing data for more than 10 minutes,29-09-2023 09:22,,1d 23h 3m 0s,Zabbix-Server-Active,Information
+27-09-2023 10:19,Zabbix proxy: More than 100 items having missing data for more than 10 minutes,29-09-2023 09:22,,1d 23h 3m 0s,Zabbixproxy2,Information
+27-09-2023 10:15,Forecast CPU Utilization High,27-09-2023 10:42,,0d 0h 27m 0s,Calculated and Aggregate items,Warning
+27-09-2023 10:01,has been restarted,27-09-2023 10:09,,0d 0h 7m 16s,Zabbix-Server-Active,Information
+27-09-2023 10:01,Unavailable by ICMP ping,29-09-2023 14:12,,2d 4h 11m 0s,Linux Server SNMP1,Average
+27-09-2023 09:59,Zabbix proxy: has been restarted,27-09-2023 10:09,,0d 0h 10m 0s,Zabbixproxy,Not Classified
+27-09-2023 09:59,has been restarted,27-09-2023 10:09,,0d 0h 9m 30s,Linux Server,Information
+27-09-2023 09:59,Zabbix proxy: Utilization of http poller processes is high,27-09-2023 10:00,,0d 0h 1m 0s,Zabbixproxy,Warning
+27-09-2023 09:59,Zabbix proxy: Utilization of http poller processes is high,27-09-2023 10:00,,0d 0h 1m 0s,Zabbixproxy2,Warning
+27-09-2023 09:59,Zabbix server: Utilization of http poller processes is high,27-09-2023 10:00,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+27-09-2023 09:59,Zabbix proxy: has been restarted,27-09-2023 10:09,,0d 0h 10m 0s,Zabbixproxy2,Not Classified
+27-09-2023 01:21,Azure: There are errors in requests to API,27-09-2023 01:21,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:52,Azure: There are errors in requests to API,27-09-2023 00:57,,0d 0h 4m 59s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:49,Azure: There are errors in requests to API,27-09-2023 00:50,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:46,Azure: There are errors in requests to API,27-09-2023 00:48,,0d 0h 1m 10s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:24,Azure: There are errors in requests to API,27-09-2023 00:24,,0d 0h 0m 47s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:19,Port 8085 is down for sometime,27-09-2023 10:00,,0d 9h 40m 46s,Zabbix-Server-Active,High
+27-09-2023 00:16,Azure Microsoft SQL: There are errors in requests to API,27-09-2023 00:16,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Warning
+27-09-2023 00:16,Azure Microsoft SQL: Microsoft SQL database is in unknown state,27-09-2023 00:16,,0d 0h 0m 48s,Azure Microsoft SQL database azure-sqlserver1,Information
+27-09-2023 00:05,Azure: There are errors in requests to API,27-09-2023 00:07,,0d 0h 1m 58s,Azure virtual machine Ubuntu20.04,Warning
+27-09-2023 00:03,Azure: There are errors in requests to API,27-09-2023 00:03,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 23:48,Azure: There are errors in requests to API,27-09-2023 00:00,,0d 0h 12m 55s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 23:45,Unavailable by ICMP ping,-,,,AP_28_Mumbai_KL,Average
+26-09-2023 23:45,Unavailable by ICMP ping,-,,,AP_27_Mumbai_KL,Average
+26-09-2023 23:45,Unavailable by ICMP ping,-,,,AP_25_Mumbai_KL,Average
+26-09-2023 23:45,Unavailable by ICMP ping,-,,,AP_10_Mumbai_KL,Average
+26-09-2023 23:37,Azure: There are errors in requests to API,26-09-2023 23:46,,0d 0h 9m 47s,Azure,Warning
+26-09-2023 23:16,Azure: There are errors in requests to API,26-09-2023 23:19,,0d 0h 2m 11s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 22:59,Azure: There are errors in requests to API,26-09-2023 22:59,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 22:22,Azure: There are errors in requests to API,26-09-2023 22:22,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 21:54,Azure: There are errors in requests to API,26-09-2023 21:54,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 20:20,Load average is too high,26-09-2023 20:20,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+26-09-2023 20:20,Load average is too high,26-09-2023 20:20,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+26-09-2023 20:20,Load average is too high,26-09-2023 20:20,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+26-09-2023 20:20,Load average is too high,26-09-2023 20:20,,0d 0h 0m 45s,Zabbix-Server-Active,Warning
+26-09-2023 19:55,Azure: There are errors in requests to API,26-09-2023 19:58,,0d 0h 3m 50s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:38,Azure: There are errors in requests to API,26-09-2023 19:38,,0d 0h 0m 55s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:36,Azure: There are errors in requests to API,26-09-2023 19:37,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:33,Azure: There are errors in requests to API,26-09-2023 19:34,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:30,Azure: There are errors in requests to API,26-09-2023 19:31,,0d 0h 0m 56s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:27,Azure: There are errors in requests to API,26-09-2023 19:28,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:25,Azure: There are errors in requests to API,26-09-2023 19:26,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:15,Azure: There are errors in requests to API,26-09-2023 19:24,,0d 0h 8m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:06,Azure: There are errors in requests to API,26-09-2023 19:07,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 19:03,Azure: There are errors in requests to API,26-09-2023 19:04,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:56,Azure: There are errors in requests to API,26-09-2023 18:57,,0d 0h 1m 54s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:53,Azure: There are errors in requests to API,26-09-2023 18:54,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:46,,0d 15h 54m 48s,NGINX clone,Information
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:46,,0d 15h 54m 48s,NGINX clone,Information
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:46,,0d 15h 55m 2s,NGINX,Information
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:46,,0d 15h 55m 2s,NGINX,Information
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:47,,0d 15h 55m 59s,standby-node-2,Information
+26-09-2023 18:51,Nginx: Failed to fetch stub status page,27-09-2023 10:47,,0d 15h 55m 59s,standby-node-2,Information
+26-09-2023 18:50,Azure: There are errors in requests to API,26-09-2023 18:52,,0d 0h 1m 57s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:47,Azure: There are errors in requests to API,26-09-2023 18:48,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:45,Azure: There are errors in requests to API,26-09-2023 18:46,,0d 0h 0m 59s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:44,Load average is too high,26-09-2023 18:45,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+26-09-2023 18:44,Load average is too high,26-09-2023 18:45,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+26-09-2023 18:44,Load average is too high,26-09-2023 18:45,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+26-09-2023 18:44,Load average is too high,26-09-2023 18:45,,0d 0h 1m 0s,Zabbix-Server-Active,Warning
+26-09-2023 18:35,Azure: There are errors in requests to API,26-09-2023 18:35,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:33,Azure: There are errors in requests to API,26-09-2023 18:34,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:28,Azure: There are errors in requests to API,26-09-2023 18:30,,0d 0h 1m 56s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:26,Zabbix agent is not available,27-09-2023 10:47,,0d 16h 21m 0s,Zabbix-Server-Standby,Warning
+26-09-2023 18:26,Zabbix agent is not available,27-09-2023 10:47,,0d 16h 21m 0s,standby-node-2,Warning
+26-09-2023 18:26,Azure: There are errors in requests to API,26-09-2023 18:27,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:21,Load average is too high,26-09-2023 18:23,,0d 0h 1m 59s,Zabbix-Server-Active,Warning
+26-09-2023 18:21,Load average is too high,26-09-2023 18:23,,0d 0h 1m 59s,Zabbix-Server-Active,Warning
+26-09-2023 18:21,Load average is too high,26-09-2023 18:23,,0d 0h 1m 59s,Zabbix-Server-Active,Warning
+26-09-2023 18:21,Load average is too high,26-09-2023 18:23,,0d 0h 1m 59s,Zabbix-Server-Active,Warning
+26-09-2023 18:20,Azure: There are errors in requests to API,26-09-2023 18:25,,0d 0h 4m 13s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 18:18,Azure: There are errors in requests to API,26-09-2023 18:18,,0d 0h 0m 52s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:55,Azure: There are errors in requests to API,26-09-2023 17:56,,0d 0h 1m 47s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:50,Azure: There are errors in requests to API,26-09-2023 17:53,,0d 0h 3m 0s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:42,Azure: There are errors in requests to API,26-09-2023 17:44,,0d 0h 1m 57s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:25,Azure: There are errors in requests to API,26-09-2023 17:25,,0d 0h 0m 49s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:23,Azure: There are errors in requests to API,26-09-2023 17:23,,0d 0h 0m 48s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:13,Azure: There are errors in requests to API,26-09-2023 17:13,,0d 0h 0m 50s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:10,Azure: There are errors in requests to API,26-09-2023 17:11,,0d 0h 1m 53s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:08,Azure: There are errors in requests to API,26-09-2023 17:09,,0d 0h 0m 58s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 17:02,Azure: There are errors in requests to API,26-09-2023 17:03,,0d 0h 1m 0s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 16:55,Azure: There are errors in requests to API,26-09-2023 16:56,,0d 0h 0m 57s,Azure virtual machine Ubuntu20.04,Warning
+26-09-2023 10:44,Port 33131 is down for sometime,-,,,Zabbix-Server-Active,High
+25-09-2023 20:01,"""edgeupdate"" (Microsoft Edge Update Service (edgeupdate)) is not running",-,,,AICIN,Warning
+25-09-2023 10:09,Port 41033 is down for sometime,-,,,Zabbix-Server-Active,High
+25-09-2023 09:54,Zabbix server: Utilization of icmp pinger processes is high,-,,,Zabbix-Server-Active,Warning
+25-09-2023 09:54,Zabbix proxy: Utilization of icmp pinger processes is high,-,,,Zabbixproxy,Warning
+25-09-2023 09:49,apache2.service: Service is not running,-,,,Systemd services,Information
+25-09-2023 09:48,apache2.service: has been restarted,-,,,Systemd services,Not Classified
+23-09-2023 23:54,Port 36009 is down for sometime,-,,,Zabbix-Server-Active,High
+23-09-2023 23:54,Port 9080 is down for sometime,-,,,Zabbix-Server-Active,High
+23-09-2023 23:54,Port 44103 is down for sometime,-,,,Zabbix-Server-Active,High
+23-09-2023 23:39,Zabbix proxy: Utilization of icmp pinger processes is high,-,,,Zabbixproxy2,Warning
+22-09-2023 19:12,High memory utilization,-,,,Zabbix-Server-Active,Warning
+22-09-2023 19:11,High CPU utilization,-,,,Zabbix-Server-Active,Average
+22-09-2023 12:14,dmesg.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:14,ua-reboot-cmds.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,irqbalance.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,systemd-pstore.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,ondemand.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,snapd.aa-prompt-listener.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,snapd.core-fixup.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,grub-initrd-fallback.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,lxd-agent.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,snap.lxd.activate.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,pollinate.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,secureboot-db.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,hibinit-agent.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,open-vm-tools.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,grub-common.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,vgauth.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,ec2-instance-connect.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,e2scrub_reap.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,netplan-ovs-cleanup.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,open-iscsi.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,lxd-agent-9p.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,rsync.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,snapd.autoimport.service: Service is not running,-,,,Systemd services,Information
+22-09-2023 12:13,snapd.recovery-chooser-trigger.service: Service is not running,-,,,Systemd services,Information
+21-09-2023 11:34,available memory test 2,-,,,Linux Server,Average
+21-09-2023 09:34,Port 42311 is down for sometime,-,,,Zabbix-Server-Active,High
+20-09-2023 10:09,Port 40713 is down for sometime,-,,,Zabbix-Server-Active,High
+19-09-2023 12:58,Port 33779 is down for sometime,-,,,Zabbix-Server-Active,High
+19-09-2023 12:58,Port 43597 is down for sometime,-,,,Zabbix-Server-Active,High
+18-09-2023 08:55,Port 34857 is down for sometime,-,,,Zabbix-Server-Active,High
+17-09-2023 15:18,Port 39063 is down for sometime,-,,,Zabbix-Server-Active,High
+14-09-2023 12:04,available memory test 1,-,,,Linux Server,Average
+14-09-2023 12:04,available memory test 1,-,,,Linux Server,Average
+14-09-2023 11:50,available memory test 3,-,,,Linux Server,Average
+14-09-2023 11:41,available memory test,-,,,Zabbix-Server-Active,Average
+14-09-2023 11:32,Zabbix agent is not available,-,,,test for map,Warning
+14-09-2023 10:21,Port 43349 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 35769 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 41211 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 43575 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 39259 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 36363 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 42295 is down for sometime,-,,,Zabbix-Server-Active,High
+13-09-2023 10:47,Port 34281 is down for sometime,-,,,Zabbix-Server-Active,High
+11-09-2023 22:11,Port 39541 is down for sometime,-,,,Zabbix-Server-Active,High
+11-09-2023 22:06,Port 33317 is down for sometime,-,,,Zabbix-Server-Active,High
+11-09-2023 09:04,Port 34975 is down for sometime,-,,,Zabbix-Server-Active,High
+11-09-2023 08:46,Zabbix proxy: Utilization of unreachable poller processes is high,-,,,Zabbixproxy2,Warning
+09-09-2023 18:49,mulesoft trigger,-,,,Zabbix-Server-Active,Unknown
+09-09-2023 13:25,Port 43031 is down for sometime,-,,,Zabbix-Server-Active,High
+09-09-2023 13:25,Port 43331 is down for sometime,-,,,Zabbix-Server-Active,High
+09-09-2023 13:25,Port 39581 is down for sometime,-,,,Zabbix-Server-Active,High
+09-09-2023 13:25,Port 46311 is down for sometime,-,,,Zabbix-Server-Active,High
+09-09-2023 02:53,Zabbix agent is not available,-,,,Windows-server,High
+09-09-2023 00:56,Port 38455 is down for sometime,-,,,Zabbix-Server-Active,High
+08-09-2023 23:16,"""edgeupdate"" (Microsoft Edge Update Service (edgeupdate)) is not running",-,,,Windows-server,Warning
+08-09-2023 09:30,Port 35229 is down for sometime,-,,,Zabbix-Server-Active,High
+07-09-2023 19:19,Unavailable by ICMP ping,-,,,AP_6_Kerala_EK,Average
+07-09-2023 12:43,"""StiSvc"" (Windows Image Acquisition (WIA)) is not running",-,,,Windows-server,Warning
+07-09-2023 12:06,Remote Desktop Services ({ITEM.LASTVALUE}),-,,,Windows-server,Information
+07-09-2023 12:06,Remote Desktop Licensing ({ITEM.LASTVALUE}),-,,,Windows-server,Information
+07-09-2023 11:52,Windows(C:): Disk space is critically low,-,,,Windows-server,Warning
+07-09-2023 11:52,Windows(C:): Disk space is critically low,-,,,Windows-server,Warning
+07-09-2023 11:52,Windows(C:): Disk space is critically low,-,,,Windows-server,Warning
+07-09-2023 11:52,Windows(C:): Disk space is critically low,-,,,Windows-server,Warning
+07-09-2023 11:52,"""VagrantVMware"" (vagrant-vmware-utility) is not running",-,,,Windows-server,Warning
+07-09-2023 00:45,Port 37883 is down for sometime,-,,,Zabbix-Server-Active,High
+06-09-2023 14:02,Port 443 is down for sometime,-,,,Zabbix-Server-Active,High
+06-09-2023 09:52,Port 39419 is down for sometime,-,,,Zabbix-Server-Active,High
+06-09-2023 09:52,Port 39031 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 14:21,Port 41581 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 14:16,Port 43045 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 14:16,Port 43557 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 09:26,Port 41027 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 09:26,Port 46139 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 09:26,Port 46383 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 09:26,Port 35939 is down for sometime,-,,,Zabbix-Server-Active,High
+05-09-2023 09:26,Port 36015 is down for sometime,-,,,Zabbix-Server-Active,High
+04-09-2023 09:11,Port 38891 is down for sometime,-,,,Zabbix-Server-Active,High
+03-09-2023 22:12,Port 46207 is down for sometime,-,,,Zabbix-Server-Active,High
