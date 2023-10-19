@@ -22,7 +22,7 @@ steps:
 # - script: |
 #     streamlit run streamlit_sample.py
 #   displayName: 'StreamlitTest'
-- script: date /t
+- script: date
   displayName: Get the date
 - script: dir
   workingDirectory: $(Agent.BuildDirectory)
