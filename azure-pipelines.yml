@@ -19,9 +19,9 @@ steps:
     pip install -r requirements.txt
   displayName: 'Install dependencies'
 
-- script: |
-    streamlit run streamlit_sample.py
-  displayName: 'StreamlitTest'
+# - script: |
+#     streamlit run streamlit_sample.py
+#   displayName: 'StreamlitTest'
 - script: date /t
   displayName: Get the date
 - script: dir
